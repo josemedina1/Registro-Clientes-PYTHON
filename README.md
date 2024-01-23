@@ -8,12 +8,14 @@ CRUD de clientes, se busca, modifica y borra al cliente mediante el RUN que lo i
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-# Iniciar programa
+# Iniciar programa CMD
 Mediante consola se escribe el siguiente comando:
 ```
   py core.py
 ```
 <img src="documents/img/iniciarCMD.png" alt="iniciar programa"/>
+
+# Iniciar programa Visual Studo Code
 <img src="documents/img/iniciarProgramaVSC.png" alt="iniciar programa"/>
 
 
