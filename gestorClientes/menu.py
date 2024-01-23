@@ -1,4 +1,5 @@
 import helpers
+# Funciones del menu
 import manager
 
 def loop():
@@ -6,16 +7,16 @@ def loop():
         
         helpers.clear()
 
-        print('======================')
-        print('BIENVENIDOS AL GESTOR ')
-        print('======================')
+        print('===================================')
+        print('BIENVENIDOS AL GESTOR DE CLIENTES')
+        print('===================================')
         print('[1] Listar clientes   ')
         print('[2] Buscar cliente por RUN')
         print('[3] Añadir clientes   ')
         print('[4] Modificar clientes')
         print('[5] Borrar clientes   ')
         print('[6] Salir             ')
-        print('======================')
+        print('===================================')
 
         option = input('> ')
 
