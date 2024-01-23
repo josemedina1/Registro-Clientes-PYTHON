@@ -3,7 +3,7 @@ Programa sencillo ejecudado mediante consola en Visual Studio Code, utilizando e
 
 CRUD de clientes, se busca, modifica y borra al cliente mediante el RUN que lo identifica (ID).
 
-<img src="documents/img/programa.png" alt="iniciar programa"/>
+<img src="documents/img/programa.png" alt="programa"/>
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
