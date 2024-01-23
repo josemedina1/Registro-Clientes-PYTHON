@@ -1,5 +1,5 @@
 # Registro-Clientes-PYTHON
-Programa sencillo ejecudado mediante consola en Visual Studio Code, utilizando el archivo core.py.
+Programa sencillo ejecutado mediante consola en Visual Studio Code, utilizando el archivo core.py.
 
 CRUD de clientes, se busca, modifica y borra al cliente mediante el RUN que lo identifica (ID).
 
